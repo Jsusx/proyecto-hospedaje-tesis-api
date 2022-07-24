@@ -1,5 +1,5 @@
 # API del proyecto hospedaje para la tesis en idat
 
-#Ejecutar
+# Ejecutar
 - cd proyecto-tesis-api
 - dotnet run
